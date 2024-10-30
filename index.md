@@ -1,6 +1,6 @@
-# Bienvenido a [Nombre de tu Aplicación]
+# Bienvenido a TikTok Stories
 
-**[Nombre de tu Aplicación]** es una herramienta diseñada para automatizar la creación y publicación de contenido de historias de Reddit en TikTok. Con esta aplicación, puedes:
+**TikTok Stories** es una herramienta diseñada para automatizar la creación y publicación de contenido de historias de Reddit en TikTok. Con esta aplicación, puedes:
 
 - Buscar historias populares de Reddit en inglés.
 - Traducir automáticamente las historias a otros idiomas.
@@ -22,8 +22,8 @@
 
 Para más información sobre el uso de nuestra aplicación, consulta los siguientes documentos:
 
-- [Términos de Servicio](https://sabishi0tokoit.github.io/TikTokStories/terms.md)
-- [Política de Privacidad](https://sabishi0tokoit.github.io/TikTokStories/privacy.md)
+- [Términos de Servicio](https://sabishi0tokoit.github.io/TikTokStories/docs/terms.md)
+- [Política de Privacidad](https://sabishi0tokoit.github.io/TikTokStories/docs/privacy.md)
 
 ---
 
@@ -39,4 +39,4 @@ Para cualquier consulta o soporte, no dudes en contactarnos en [contacto@tuempre
 
 ---
 
-© [Año Actual] [Nombre de tu Empresa o Proyecto]. Todos los derechos reservados.
+© 2024 TikTok Stories. Todos los derechos reservados.
